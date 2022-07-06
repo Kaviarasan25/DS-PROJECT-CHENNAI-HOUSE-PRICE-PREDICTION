@@ -1,5 +1,5 @@
 # DS-PROJECT-CHENNAI-HOUSE-PRICE-PREDICTION
-Analysis of Chennai house sales dataset that lists purchases made over a period of 4 years to create a model that will give a forecast range (range of permissible values) rather than a single estimate as it will help the customers to negotiate.
+Analysis of the Chennai house sales dataset, which records purchases completed over a time period, was done in order to develop a model that will provide a forecast range rather than a single forecast in order to assist customers in negotiating.
 
 # Website Link:
 Click on the link to visit the app : [Guvi_homes_link](https://grumpy-mammals-invite-34-86-3-35.loca.lt)
