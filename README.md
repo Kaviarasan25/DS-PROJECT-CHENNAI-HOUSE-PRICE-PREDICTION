@@ -10,7 +10,7 @@ Click on the link to visit the app : [Guvi_homes_link](https://grumpy-mammals-in
 This project requires following python libraries installed:
 * Pandas,matplotlib,seaborn,scikitlearn,numpy,plotly
 
-# Roadmap:
+# PROJECT:
 * Data cleaning
 * Exploratory data analysis is done to obtain the insights from the data
 * Feature and target variable are assigned
