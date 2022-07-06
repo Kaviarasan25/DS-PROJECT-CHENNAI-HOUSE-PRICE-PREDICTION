@@ -11,10 +11,10 @@ This project requires following python libraries installed:
 * Pandas,matplotlib,seaborn,scikitlearn,numpy,plotly
 
 # Roadmap:
-* Importing and cleaning the dataset
+* Data cleaning
 * Exploratory data analysis is done to obtain the insights from the data
 * Feature and target variable are assigned
 * Multiple Machine Learning models are used to predict the sales price
 * Best ML model is selected based on the R2 value
 * Feature importance is done.
-* Create an Websuite using Streamlit 
+* Model Deployment using streamlit 
